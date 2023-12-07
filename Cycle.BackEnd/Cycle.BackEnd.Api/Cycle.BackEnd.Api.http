@@ -1,0 +1,6 @@
+@Cycle.BackEnd.Api_HostAddress = http://localhost:5197
+
+GET {{Cycle.BackEnd.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
