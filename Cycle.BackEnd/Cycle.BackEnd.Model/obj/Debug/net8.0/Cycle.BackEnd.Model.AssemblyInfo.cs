@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Cycle.BackEnd.Api")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Cycle.BackEnd.Model")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Cycle.BackEnd.Api")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Cycle.BackEnd.Api")]
+[assembly: System.Reflection.AssemblyProductAttribute("Cycle.BackEnd.Model")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Cycle.BackEnd.Model")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Von der MSBuild WriteCodeFragment-Klasse generiert.

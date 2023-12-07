@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\AngularLernen\\Cycle.BackEnd\\Cycle.BackEnd.Api\\Cycle.BackEnd.Api.csproj": {}
+    "C:\\Repos\\AngularLernen\\Cycle.BackEnd\\Cycle.BackEnd.Model\\Cycle.BackEnd.Model.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\AngularLernen\\Cycle.BackEnd\\Cycle.BackEnd.Api\\Cycle.BackEnd.Api.csproj": {
+    "C:\\Repos\\AngularLernen\\Cycle.BackEnd\\Cycle.BackEnd.Model\\Cycle.BackEnd.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\AngularLernen\\Cycle.BackEnd\\Cycle.BackEnd.Api\\Cycle.BackEnd.Api.csproj",
-        "projectName": "Cycle.BackEnd.Api",
-        "projectPath": "C:\\Repos\\AngularLernen\\Cycle.BackEnd\\Cycle.BackEnd.Api\\Cycle.BackEnd.Api.csproj",
+        "projectUniqueName": "C:\\Repos\\AngularLernen\\Cycle.BackEnd\\Cycle.BackEnd.Model\\Cycle.BackEnd.Model.csproj",
+        "projectName": "Cycle.BackEnd.Model",
+        "projectPath": "C:\\Repos\\AngularLernen\\Cycle.BackEnd\\Cycle.BackEnd.Model\\Cycle.BackEnd.Model.csproj",
         "packagesPath": "C:\\Users\\Lorenz\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\AngularLernen\\Cycle.BackEnd\\Cycle.BackEnd.Api\\obj\\",
+        "outputPath": "C:\\Repos\\AngularLernen\\Cycle.BackEnd\\Cycle.BackEnd.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,13 +45,15 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Authentication.Negotiate": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[8.0.0, )"
             },
-            "Swashbuckle.AspNetCore": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[8.0.0, )"
             }
           },
           "imports": [
@@ -66,9 +68,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

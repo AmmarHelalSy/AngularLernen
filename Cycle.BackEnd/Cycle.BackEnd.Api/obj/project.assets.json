@@ -1010,7 +1010,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Shinelon-Zz\\.nuget\\packages\\": {},
+    "C:\\Users\\Lorenz\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -1019,14 +1019,14 @@
       "projectUniqueName": "C:\\Repos\\AngularLernen\\Cycle.BackEnd\\Cycle.BackEnd.Api\\Cycle.BackEnd.Api.csproj",
       "projectName": "Cycle.BackEnd.Api",
       "projectPath": "C:\\Repos\\AngularLernen\\Cycle.BackEnd\\Cycle.BackEnd.Api\\Cycle.BackEnd.Api.csproj",
-      "packagesPath": "C:\\Users\\Shinelon-Zz\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Lorenz\\.nuget\\packages\\",
       "outputPath": "C:\\Repos\\AngularLernen\\Cycle.BackEnd\\Cycle.BackEnd.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Shinelon-Zz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lorenz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
